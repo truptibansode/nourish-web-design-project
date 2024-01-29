@@ -1,0 +1,20 @@
+body{
+    box-sizing: border-box;
+}
+
+.bg-img-div{
+    background-image: url(/images/Cosmetics\ on\ Color\ —\ Marissa\ Gimeno\ \(2\).jpeg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.abt-head{
+    padding: 100px;
+    font-family: 'marcellus', serif;
+    color: white;
+}
+
+.abt-head h1{
+    font-size: 8vw;
+}
